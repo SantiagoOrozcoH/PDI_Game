@@ -17,6 +17,6 @@ Disclaimers:
 
 - 	This game was made to test and learn about opencv, anything related to the game graphics was not in the scope of the assignment
 
-- 	Because this was and the first approach to Digital Image Processing, the game lacks of calibration and there are 
+- 	Because this was the first approach to Digital Image Processing, the game lacks of calibration and there are 
 	some glitches due to illumination and different hardware used (webcam), so it is a task of the user 
 	to know this issues and she/he should try to calibrate them in the code 

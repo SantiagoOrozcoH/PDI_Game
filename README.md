@@ -1,6 +1,6 @@
 Basic guide to run this repository
 
-Using CLI, move to folder where PDI_Game are
+Using CLI, move to folder where pdi_1_game.py is located
 
 1) Create a virtual environment: $ virtualenv env
 
